@@ -4,3 +4,5 @@
 pip install selenium 
 
 Takipte çıkma sayısı 60-80 den fazla olmamasına dikkat ediniz aksi takdirde botu algılayabılır ve doğrulama kodu ister
+
+43.satırda web driverin yolunu veriniz
